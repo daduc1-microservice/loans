@@ -11,6 +11,7 @@ E:\microservice\loans\src\main\java\com\daduc\loans\controller\LoansController.j
 E:\microservice\loans\src\main\java\com\daduc\loans\exception\LoanAlreadyExistsException.java
 E:\microservice\loans\src\main\java\com\daduc\loans\entity\BaseEntity.java
 E:\microservice\loans\src\main\java\com\daduc\loans\dto\ErrorResponseDto.java
+E:\microservice\loans\src\main\java\com\daduc\loans\dto\LoansContactInfoDto.java
 E:\microservice\loans\src\main\java\com\daduc\loans\service\ILoansService.java
 E:\microservice\loans\src\main\java\com\daduc\loans\exception\ResourceNotFoundException.java
 E:\microservice\loans\src\main\java\com\daduc\loans\dto\ResponseDto.java

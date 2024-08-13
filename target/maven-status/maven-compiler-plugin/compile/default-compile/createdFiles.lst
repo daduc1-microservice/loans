@@ -1,6 +1,7 @@
 com\daduc\loans\exception\ResourceNotFoundException.class
 com\daduc\loans\mapper\LoansMapper.class
 com\daduc\loans\repository\LoansRepository.class
+com\daduc\loans\dto\LoansContactInfoDto.class
 com\daduc\loans\LoansApplication.class
 com\daduc\loans\service\ILoansService.class
 com\daduc\loans\exception\LoanAlreadyExistsException.class
